@@ -13,6 +13,15 @@ body{
 	justify-content: center;
 }
 
+.game-title h1{
+	color: mediumseagreen; 
+	font-family: sans-serif;
+}
+
+.game-title strong{
+	color: tomato;
+}
+
 .game-container{
 	display: grid;
 	grid-template-rows: 50px 100px 100px 100px 50px;
